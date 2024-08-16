@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@api/opensea": "file:.api/apis/opensea",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "Start refreshing": "node refresher.js"
+  }
+}
